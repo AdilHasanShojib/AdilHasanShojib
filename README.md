@@ -1,5 +1,8 @@
 ### Hi there 👋, I'm MD. Shojib Talukder 
 **Web Developer**
+[![LinkedIn](https://img.shields.io/badge/-Emam_Hasan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/md-shojib-talukder-8551112b3/)](https://www.linkedin.com/in/md-shojib-talukder-8551112b3/)
+[![GitHub](https://img.shields.io/badge/-foyez--hub-black?style=flat&logo=github&logoColor=white&link=https://github.com/AdilHasanShojib)](https://github.com/AdilHasanShojib)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat&logo=appveyor&logoColor=white&link=)]()
 
 ### 🎓 **Education**
 - **United International University** | B.Sc. in Computer Science and Engineering (2020-2024)
