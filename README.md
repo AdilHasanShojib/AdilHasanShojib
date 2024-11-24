@@ -53,3 +53,7 @@
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=AdilHasanShojib)  
 
+
+### 🌟 **Connect with me**
+Feel free to reach out to me through my [LinkedIn](https://www.linkedin.com/in/md-shojib-talukder-8551112b3/) or visit my [Portfolio]()!
+
