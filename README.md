@@ -1,14 +1,48 @@
-![Web Developer](https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/452532506_1657186601783248_7984760194470646285_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeHY8xj1W0Xl48WX5AHSyzO66vzmH8SQuQnq_OYfxJC5CbPso-RtWVMGkhhQC5SSW28yfo8Zc10QX4Av1Vecdk1E&_nc_ohc=oCFwoJN3grwQ7kNvgEoMVjh&_nc_zt=23&_nc_ht=scontent.fdac14-1.fna&_nc_gid=AzJqilCkhpYCzoP4lxEXvha&oh=00_AYBbEVVrC5uFbKV5yxO7Cu4C3CaTu2aOlPJNKBpP_U7Oaw&oe=67487F05)
-
 ### Hi there 👋, I'm MD. Shojib Talukder 
-#### Web Developer
+**Web Developer**
+
+### 🎓 **Education**
+- **United International University** | B.Sc. in Computer Science and Engineering (2020-2024)
+### 💻 **Skills**
+- **Languages**: C, C++, C#, PHP, JavaScript, React, Java, HTML, CSS, SQL
+- **Frameworks/Tools**: NextJs, .NET, Burp Suite, Bootstrap, Git, LaTeX,
+- **Databases**: MySQL, MongoDB
+- **Specialties**: Web Development
+
+---
+
+### 💼 **Experience**
+- **Undergraduate Teaching Assistant** at United International University | Feb 2023 - Oct 2024
+  - SPL(structured programming language).
+  - OOP(Object-oriented programming).
+
+---
 
 
+---
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+### 🚀 **Projects**
+#### [Cinephiles](https://github.com/foyez-hub/cinephiles_se)
+- Web app for movie enthusiasts with features like exploration, lists, and watch parties.
+- **Technologies**: PHP, JavaScript, HTML, CSS MySQL
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning React, NextJS 
+#### [FWCMS](https://github.com/foyez-hub/Codewar)
+- FWCMS is an Advanced Object Oriented Programming Project based on real life key features. Where user's and admin will be connected with each other through server socket. Football is an international sport. With this project people can enjoy FIFA 22 from everywhere.
+- **Technologies**: JAVA, CSS
+
+#### [Course Management System](https://github.com/foyez-hub/DBMS_project)
+- A website for course selection, recommendations, and friend-based course matching.
+- **Technologies**: PHP, MySQL, JavaScript
+
+
+---
+
+### 📚 **Research**
+
+#### [Data Segmentation with Improved K-Means Clustering Algorithm](https://ieeexplore.ieee.org/document/10441078)
+- **IEEE 2023** 26th International Conference on Computer and Information Technology | December 13-15, 2023
+
+---
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AdilHasanShojib)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-shojib-talukder-8551112b3/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/shojib.talukder.adil)  
