@@ -26,7 +26,7 @@
 - Web app for movie enthusiasts with features like exploration, lists, and watch parties.
 - **Technologies**: PHP, JavaScript, HTML, CSS MySQL
 
-#### [FWCMS](https://github.com/foyez-hub/Codewar)
+#### [FIFA World Cup Management System](https://github.com/foyez-hub/Codewar)
 - FWCMS is an Advanced Object Oriented Programming Project based on real life key features. Where user's and admin will be connected with each other through server socket. Football is an international sport. With this project people can enjoy FIFA 22 from everywhere.
 - **Technologies**: JAVA, CSS
 
