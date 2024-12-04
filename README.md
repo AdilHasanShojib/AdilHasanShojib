@@ -20,7 +20,7 @@
   - OOP(Object-oriented programming).
 
  - **Professional Experience: Trainee Full-stack Developer** | Feb 2024 - Sept 2024
-   Center for Development of IT Professionals - CDIP
+   - Center for Development of IT Professionals - CDIP
    - JavaScript Full Stack Development Training Program (React, Node.js, and Next.js)
 
 ---
