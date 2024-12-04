@@ -72,5 +72,5 @@
 
 
 ### 🌟 **Connect with me**
-Feel free to reach out to me through my [LinkedIn](https://www.linkedin.com/in/md-shojib-talukder-8551112b3/) or visit my [Portfolio]()!
+Feel free to reach out to me through my [LinkedIn](https://www.linkedin.com/in/md-shojib-talukder-8551112b3/) or visit my [Portfolio](https://adilhasanshojib.github.io/Portfolio/)!
 
