@@ -19,21 +19,33 @@
   - SPL(structured programming language).
   - OOP(Object-oriented programming).
 
+ - **Professional Experience: Trainee Full-stack Developer** | Feb 2024 - Sept 2024
+   Center for Development of IT Professionals - CDIP
+   - JavaScript Full Stack Development Training Program (React, Node.js, and Next.js)
+
 ---
 
 
 ---
 
 ### 🚀 **Projects**
-#### [Cinephiles](https://github.com/foyez-hub/cinephiles_se)
+#### [SwiftEats](https://github.com/AdilHasanShojib/NextJS-Project-Food-Delivery-)
+- SwiftEats is an intuitive and efficient food delivery platform.
+- **Technologies**: Next.js, Node.js, MongoDB, API, HTML, CSS
+- 
+#### [University Talent Showcase](https://github.com/AdilHasanShojib/University-Talent-Showcase)
+- A dynamic web-based project designed to empower students, faculty, and administrators in showcasing, evaluating, and managing talents across the university.
+- **Technologies**: PHP, JavaScript, Bootstrap, MySQL, HTML, CSS
+
+#### [Cinephiles](https://github.com/AdilHasanShojib/Cinephiles)
 - Web app for movie enthusiasts with features like exploration, lists, and watch parties.
 - **Technologies**: PHP, JavaScript, HTML, CSS MySQL
 
-#### [FIFA World Cup Management System](https://github.com/foyez-hub/Codewar)
+#### [FIFA World Cup Management System](https://github.com/AdilHasanShojib/FIFA)
 - FWCMS is an Advanced Object Oriented Programming Project based on real life key features. Where user's and admin will be connected with each other through server socket. Football is an international sport. With this project people can enjoy FIFA 22 from everywhere.
-- **Technologies**: JAVA, CSS
+- **Technologies**: JAVA
 
-#### [Course Management System](https://github.com/foyez-hub/DBMS_project)
+#### [Course Management System](https://github.com/AdilHasanShojib/DBMS_project)
 - A website for course selection, recommendations, and friend-based course matching.
 - **Technologies**: PHP, MySQL, JavaScript
 
@@ -45,6 +57,8 @@
 #### [Data Segmentation with Improved K-Means Clustering Algorithm](https://ieeexplore.ieee.org/document/10441078)
 - **IEEE 2023** 26th International Conference on Computer and Information Technology | December 13-15, 2023
 
+#### [High school students performance analyser using machine learning approach]()
+- **Status: Accepted | Paper ID: 1239** **IEEE 2024** 27th International Conference on Computer and Information Technology 
 ---
 
 
