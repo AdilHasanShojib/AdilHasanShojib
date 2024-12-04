@@ -32,7 +32,7 @@
 #### [SwiftEats](https://github.com/AdilHasanShojib/NextJS-Project-Food-Delivery-)
 - SwiftEats is an intuitive and efficient food delivery platform.
 - **Technologies**: Next.js, Node.js, MongoDB, API, HTML, CSS
-- 
+ 
 #### [University Talent Showcase](https://github.com/AdilHasanShojib/University-Talent-Showcase)
 - A dynamic web-based project designed to empower students, faculty, and administrators in showcasing, evaluating, and managing talents across the university.
 - **Technologies**: PHP, JavaScript, Bootstrap, MySQL, HTML, CSS
