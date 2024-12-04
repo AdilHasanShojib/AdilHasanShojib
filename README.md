@@ -58,7 +58,7 @@
 - **IEEE 2023** 26th International Conference on Computer and Information Technology | December 13-15, 2023
 
 #### [High school students performance analyser using machine learning approach]()
-- **Status: Accepted | Paper ID: 1239** **IEEE 2024** 27th International Conference on Computer and Information Technology 
+- **Status: Accepted | Paper ID: 1239 |** **IEEE 2024** 27th International Conference on Computer and Information Technology 
 ---
 
 
