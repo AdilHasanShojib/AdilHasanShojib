@@ -21,7 +21,7 @@
 
  - **Professional Experience: Trainee Full-stack Developer** | Feb 2024 - Sept 2024 <br>
     Center for Development of IT Professionals - CDIP
-   - JavaScript Full Stack Development Training Program (React, Node.js, and Next.js)
+   - JavaScript Full Stack Development Training Program (Javascript, React, Node.js, and Next.js)
 
 ---
 
