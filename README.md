@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Md. Shojib Talukder 
-**Software Developer** <br> <br>
+**Software Engineer** <br> <br>
 [![LinkedIn](https://img.shields.io/badge/-MD_Shojib-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/md-shojib-talukder-8551112b3/)](https://www.linkedin.com/in/md-shojib-talukder-8551112b3/)
 [![GitHub](https://img.shields.io/badge/-AdilHasanShojib-black?style=flat&logo=github&logoColor=white&link=https://github.com/AdilHasanShojib)](https://github.com/AdilHasanShojib)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat&logo=appveyor&logoColor=white&link=https://adilhasanshojib.github.io/Portfolio/)](https://adilhasanshojib.github.io/Portfolio/)
@@ -8,7 +8,7 @@
 - **United International University** | B.Sc. in Computer Science and Engineering (2020-2024)
 ### 💻 **Skills**
 - **Languages**: C, C++, C#, PHP, JavaScript, React, Java, HTML, CSS, SQL
-- **Frameworks/Tools**: NextJs, .NET, Burp Suite, Bootstrap, Git, LaTeX,
+- **Frameworks/Tools**: Laravel, NextJs, .NET, Burp Suite, Bootstrap, Git, LaTeX,
 - **Databases**: MySQL, MongoDB
 - **Specialties**: Web Development
 
