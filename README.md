@@ -10,7 +10,7 @@
 - **Languages**: C, C++, C#, PHP, JavaScript, React, Java, HTML, CSS, SQL
 - **Frameworks/Tools**: Laravel, NextJs, .NET, Burp Suite, Bootstrap, Git, LaTeX,
 - **Databases**: MySQL, MongoDB
-- **Specialties**: Web Development
+- **Specialties**: Web Development,Fullstack Development
 
 ---
 
